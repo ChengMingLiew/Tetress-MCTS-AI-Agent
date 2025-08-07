@@ -10,8 +10,8 @@ python -m referee <agent> <agent>
 
 An example of putting an 'mcts_agent' against another 'mcts_agent would be:
 
-'''
+```
 python -m referee mcts_agent mcts_agent 
-'''
+```
 
 
