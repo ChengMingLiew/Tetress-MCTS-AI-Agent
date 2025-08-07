@@ -1,1 +1,1 @@
-## Tetress playing AI Agent that implements Monte Carlo Tree Search method
+##Tetress playing AI Agent that implements Monte Carlo Tree Search method
