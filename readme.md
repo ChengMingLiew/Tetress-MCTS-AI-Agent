@@ -23,5 +23,8 @@ python -m referee mcts_agent mcts_agent
 - Backpropogation: Updates node statistics based on the rollouts results.
 
 ### Random Agent
+- This agent chooses random legal moves to place on the board
 
 ### Referee
+- Facilitates the Tetress Game
+- Manages initialisation, agent conditions, and game over conditions during every move and state of the game
