@@ -16,9 +16,12 @@ python -m referee mcts_agent mcts_agent
 
 ## Features
 
-## Monte Carlo Tree Search Agent
+### Monte Carlo Tree Search Agent
 - Selection: This is based on UCB1 which balances exploration and exploitation
 - Expansion: Builds child nodes for possible moves
 - Rollouts: Performs random simulations of possible moves from the current state of the game
 - Backpropogation: Updates node statistics based on the rollouts results.
 
+### Random Agent
+
+### Referee
